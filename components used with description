@@ -1,0 +1,57 @@
+1.8051 Ddevelopment board with AT89S52 MC mounted on it
+
+AT89S52: - The AT89S52 is an 8051-based microcontroller known 
+for its simplicity and reliability. It operates using an 8-bit architecture and is 
+widely used in embedded systems. The microcontroller includes the 
+following key features 
+DETAILS: - 
+4KB Flash Memory: Stores the program code.  
+128 Bytes of RAM: For temporary data storage.  
+32 I/O Pins: Configured for input or output operations. 
+3 Timers/Counters: For timing and control tasks. 
+Interrupt System: Manages priority tasks efficiently 
+
+2.Rain Sensor- A rain sensor is a switching device which is activated by rainfall. 
+There are two main applications of rain sensors. First is a water conservation device 
+connected to an automatic water irrigation system. The second is a device used to 
+support the automatic mode of windscreen wipers. The rain sensor works on the 
+principle of total internal reflection. An infrared light shone at a 45-degree angle on a 
+clear area of the windshield is reflected and is sensed by the sensor inside the car. 
+When it rains, the wet glass causes the light to scatter, and a lesser amount of light gets 
+reflected to the sensor. 
+
+
+3.ADC0808: - In electronics, an analog-to-digital converter (ADC, 
+A/D, or A-to-D) is a system that converts an analog signal, such as a 
+sound picked up by a microphone or light entering a digital camera, into a 
+digital signal. An ADC may also provide an isolated measurement such as 
+an electronic device that converts an analog input voltage or current to a 
+digital number representing the magnitude of the voltage or current. 
+Typically, the digital output is a two's complement binary number that is 
+proportional to the input, but there are other possibilities.
+
+
+4.Motor Driver(L298N): - PWM, or pulse width modulation is a 
+technique which allows us to adjust the average value of the voltage that’s 
+going to the electronic device by turning on and off the power at a fast rate. 
+The average voltage depends on the duty cycle, or the amount of time the 
+signal is ON versus the amount of time the signal is OFF in a single period. 
+So, depending on the size of the motor, we can simply connect a 
+microcontroller PWM output to the base of transistor or the gate of a 
+MOSFET and control the speed of the motor by controlling the PWM output. 
+The low power microcontroller PWM signal switches on and off the gate at 
+the MOSFET through which the high-power motor is driven.
+
+5.Buffer (CD4050): - A digital buffer (or a logic buffer) is an 
+electronic circuit element used to copy a digital input signal and isolate 
+it from any output load. For the typical case of using voltages as logic 
+signals, a logic buffer's input impedance is high, so it draws little 
+current from the input circuit, to avoid disturbing its signal. 
+The digital buffer is important in data transmission between connected 
+systems. Buffers are used in registers (data storage device) and 
+buses (data transferring device). To connect to a shared bus, a tri
+state digital buffer should be used, because it has a high impedance 
+("inactive" or "disconnected") output state (in addition to logic low and 
+high).
+
+
