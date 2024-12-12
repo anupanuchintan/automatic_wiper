@@ -1,0 +1,18 @@
+There are two types of output in the rain sensor, namely  
+1. Analog output 
+2. Digital Output 
+1.Analog Output: -In this output terminal output voltage is 
+5V when no rain is detected and varies up to 1.8V as 
+intensity of rain increases in a linear manner. This terminal 
+output   is used to check the intensity of rain 
+2.Digital Output: -In this output terminal output voltage is 
+5V when no rain is detected and suddenly falls to 0V at 
+the very moment when rain is detected 
+TEST RESULTS USED FOR THE PROJECT 
+In this case for medium intensity of water on the sensor 
+surface the voltage varies from 2V to 4V. Considering 
+V(ref) 
+Values of ADC 0V and 5V for Vref(-) and Vref(+) 
+respectively. 
+The threshold value of a voltage was chosen to be 2.9V 
+for which the output of ADC was 90H. 
