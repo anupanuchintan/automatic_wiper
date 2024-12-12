@@ -1,0 +1,8 @@
+There are a few challenges that we faced during this project, one 
+of them is the sensitivity of the rain sensor. The output of the sensor 
+we used is not of very wide range, so the detection of rain 
+intensity is not very clear in this case. But with sensors with 
+sensitivity and a good range of output, multiple levels of rain and 
+wiper speed can be implemented providing a smooth marketable 
+product. In this project only two levels of rain are detected, low and 
+high.
